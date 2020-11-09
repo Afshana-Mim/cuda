@@ -95,7 +95,7 @@
             height: 2px;
             width: 100px;
             background: #000000;
-            margin: 10 auto;
+            margin: 10px auto;
         }
         
         .tittle p {
@@ -165,7 +165,7 @@
         .portfolio {
             width: 100%;
             float: left;
-            padding: 25px opx;
+            padding: 25px 0px;
         }
         
         .btn-two {
@@ -241,7 +241,7 @@
         
         .touch p {
             color: white;
-            font-size: 16;
+            font-size: 16px;
         }
         
         .touch text-area {
