@@ -91,9 +91,10 @@
         }
         
         .tittle span {
-            border-bottom: 3px solid black;
             display: block;
-            width: 15%;
+            height: 2px;
+            width: 100px;
+            background: #000000;
             margin: 10 auto;
         }
         
